@@ -1,0 +1,93 @@
+GAMEBOOSTER UI - PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2024 GameBooster UI. All rights reserved.
+
+IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
+
+This is a legal agreement between you (either an individual or a single entity) and GameBooster UI for the software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT").
+
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this license agreement. If you do not agree to the terms of this license agreement, do not install or use the SOFTWARE PRODUCT.
+
+1. GRANT OF LICENSE
+   Subject to the terms and conditions of this Agreement, GameBooster UI grants you a limited, non-exclusive, non-transferable license to:
+   
+   a) Install and use the SOFTWARE PRODUCT on a single computer
+   b) Use the SOFTWARE PRODUCT in accordance with your purchased license tier:
+      - BASIC LICENSE: Access to 40% of features
+      - PRO LICENSE: Access to 70% of features
+      - ULTRA LICENSE: Access to 100% of features
+
+2. RESTRICTIONS
+   You may NOT:
+   a) Reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT
+   b) Modify, adapt, translate, or create derivative works based on the SOFTWARE PRODUCT
+   c) Remove or alter any copyright, trademark, or other proprietary notices
+   d) Distribute, sublicense, rent, lease, or lend the SOFTWARE PRODUCT
+   e) Use the SOFTWARE PRODUCT for any illegal purpose
+   f) Share your license key with others
+   g) Bypass or circumvent the license validation system
+
+3. OWNERSHIP
+   The SOFTWARE PRODUCT is licensed, not sold. GameBooster UI retains all right, title, and interest in and to the SOFTWARE PRODUCT, including all intellectual property rights.
+
+4. LICENSE VALIDATION
+   The SOFTWARE PRODUCT requires online license validation. By using the SOFTWARE PRODUCT, you agree that:
+   a) The software may connect to remote servers to validate your license
+   b) Your license key and basic system information may be transmitted
+   c) The software may check for updates automatically
+
+5. UPDATES AND SUPPORT
+   a) Updates may be provided at GameBooster UI's discretion
+   b) Updates may require a valid license key
+   c) Technical support is provided on a best-effort basis
+   d) No guarantee of continued updates or support
+
+6. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE PRODUCT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL GAMEBOOSTER UI BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT.
+
+8. SYSTEM MODIFICATIONS
+   YOU ACKNOWLEDGE THAT:
+   a) The SOFTWARE PRODUCT modifies Windows system settings and registry values
+   b) These modifications may affect system stability and security
+   c) You use the SOFTWARE PRODUCT at your own risk
+   d) You should create system restore points before applying tweaks
+   e) GameBooster UI is not responsible for any system damage or data loss
+
+9. SECURITY WARNINGS
+   a) Disabling Windows Defender or other security features may leave your system vulnerable
+   b) You are responsible for maintaining adequate security measures
+   c) GameBooster UI is not liable for security breaches resulting from SOFTWARE PRODUCT use
+
+10. TERMINATION
+    This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this Agreement. Upon termination, you must destroy all copies of the SOFTWARE PRODUCT.
+
+11. GOVERNING LAW
+    This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which GameBooster UI operates, without regard to its conflict of law provisions.
+
+12. ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement between you and GameBooster UI concerning the SOFTWARE PRODUCT and supersedes all prior or contemporaneous oral or written communications, proposals, and representations.
+
+13. CONTACT INFORMATION
+    For questions about this license or the SOFTWARE PRODUCT, please contact:
+    - GitHub: https://github.com/yourusername/GameBoosterUI
+    - Email: support@gameboosterui.com (if available)
+
+BY INSTALLING OR USING THE SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+---
+
+THIRD-PARTY COMPONENTS
+
+This SOFTWARE PRODUCT may include third-party components subject to their own licenses:
+- .NET Runtime (Microsoft) - MIT License
+- WPF Framework (Microsoft) - MIT License
+
+For complete third-party license information, see THIRD-PARTY-LICENSES.txt
+
+---
+
+Last Updated: June 12, 2024
+Version: 2.0.0
